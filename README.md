@@ -3,7 +3,7 @@
 </head>
 <body>
 
-<h1 id="excloner" style="align:center;">Excloner</h1>
+<h1 align="center">Excloner</h1>
 
 </body>
 </html>
