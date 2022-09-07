@@ -1,13 +1,5 @@
 
-<div align="center">
-  <a href="https://github.com/excloner/">
-    <h1><img src="https://user-images.githubusercontent.com/34881893/188812369-76dcf497-c679-4346-a758-52ecb6363983.png" alt="Github" width="25px" height="25px" title="Github">Excloner</h1>
-  </a>
-</div>
-
-<br>
-
-<h4 align="center">Skills</h4>
+<h1 align="center">Skills</h1>
 
 <div align="center">
 <a href="#">
